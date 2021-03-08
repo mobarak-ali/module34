@@ -1,0 +1,10 @@
+.product{
+    display:flex;
+    border-bottom: 1px solid lightgray;
+    align-items: center;
+    padding:5px;
+
+}
+.product img{
+    margin: 15px;
+}
