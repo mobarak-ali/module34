@@ -5,8 +5,7 @@ import './Shop.css'
 
 
 const Shop = () => {
-    console.log(fakeData);
-
+    
     const first10 = fakeData.slice(0, 3);
     const [products] = useState(first10);
 

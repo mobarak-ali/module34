@@ -8,3 +8,12 @@
 .product img{
     margin: 15px;
 }
+.cart-button{
+    background-color: goldenrod;
+    padding: 15px 50px;
+    border: 1px solid gold;
+    border-radius: 5px;
+}
+/* npm i --save @fortawesome/fontawesome-svg-core  
+npm install --save @fortawesome/free-solid-svg-icons  
+npm install --save @fortawesome/react-fontawesome */
